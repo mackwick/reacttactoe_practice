@@ -4,19 +4,19 @@ function App() {
   return (
     <div className="App">
       <div className="board-row">
-        <Square name={"1"} />
-        <Square name={"2"} />
-        <Square name={"3"} />
+        <Square />
+        <Square />
+        <Square />
       </div>
       <div className="board-row">
-        <Square name={"4"} />
-        <Square name={"5"} />
-        <Square name={"6"} />
+        <Square />
+        <Square />
+        <Square />
       </div>
       <div className="board-row">
-        <Square name={"7"} />
-        <Square name={"8"} />
-        <Square name={"9"} />
+        <Square />
+        <Square />
+        <Square />
       </div>
     </div>
   );
